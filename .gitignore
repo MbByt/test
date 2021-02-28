@@ -5,6 +5,7 @@
 /BusinessDay/bin/Debug/netcoreapp2.1
 /.vs/BusinessDay/v15
 /BusinessDay/obj
+/BusinessDay/bin/Debug
 
 /BusinessDay.Data/bin/Debug
 /BusinessDay.Data/obj
