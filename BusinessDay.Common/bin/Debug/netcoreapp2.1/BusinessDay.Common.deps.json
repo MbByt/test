@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "BusinessDay.Common/1.0.0": {
+        "dependencies": {
+          "BusinessDay.Data": "1.0.0"
+        },
+        "runtime": {
+          "BusinessDay.Common.dll": {}
+        }
+      },
+      "BusinessDay.Data/1.0.0": {
+        "runtime": {
+          "BusinessDay.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BusinessDay.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BusinessDay.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
