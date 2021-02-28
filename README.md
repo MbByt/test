@@ -11,6 +11,7 @@ api/WeekdaysBetweenTwoDates
 api/BusinessDaysBetweenTwoDatespublicHolidayRules
 api/BusinessDaysBetweenTwoDates
 Which can be consumed by other API's or be used as a backend service for any UI.
+
 ## Technologies
 Project was created with:
 * Microsoft.aspnetcore.app version: 2.1.1
@@ -28,12 +29,16 @@ Helper Classes,Enums,Configuration Classes and Extension Classes
 
 BusinessDay.Data:
 Data layer items of the solution are created in this project including :
-Context,DataModel,Dtos,Entities,Models,
+Context,DataModel,Dtos,Entities,Models.
+
 BusinessDay.Services:
 This project consists of business logic of the solution containing  BusinessDayCounter class and its interface.
+
 BusinessDay.Tests:
-This project provides the test cases that covers all of the API's with different range of sample inputs
+This project provides the test cases that covers all of the API's with different range of sample inputs.
+
 BusinessDay.Web:
 This project is the home of RESTfull APIs.
+
 ## Run
 To run this project, Open it in Visual Studio 2017 and compile it.
