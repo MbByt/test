@@ -9114,11 +9114,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\M!l!D\\source\\repos\\BusinessDayCounter\\test\\BusinessDay.Tests\\BusinessDay.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\M!l!D\\source\\repos\\New folder\\test\\BusinessDay.Tests\\BusinessDay.Tests.csproj",
       "projectName": "BusinessDay.Tests",
-      "projectPath": "C:\\Users\\M!l!D\\source\\repos\\BusinessDayCounter\\test\\BusinessDay.Tests\\BusinessDay.Tests.csproj",
+      "projectPath": "C:\\Users\\M!l!D\\source\\repos\\New folder\\test\\BusinessDay.Tests\\BusinessDay.Tests.csproj",
       "packagesPath": "C:\\Users\\M!l!D\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\M!l!D\\source\\repos\\BusinessDayCounter\\test\\BusinessDay.Tests\\obj\\",
+      "outputPath": "C:\\Users\\M!l!D\\source\\repos\\New folder\\test\\BusinessDay.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -9139,17 +9139,17 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\M!l!D\\source\\repos\\BusinessDayCounter\\test\\BusinessDay.Common\\BusinessDay.Common.csproj": {
-              "projectPath": "C:\\Users\\M!l!D\\source\\repos\\BusinessDayCounter\\test\\BusinessDay.Common\\BusinessDay.Common.csproj"
+            "C:\\Users\\M!l!D\\source\\repos\\New folder\\test\\BusinessDay.Common\\BusinessDay.Common.csproj": {
+              "projectPath": "C:\\Users\\M!l!D\\source\\repos\\New folder\\test\\BusinessDay.Common\\BusinessDay.Common.csproj"
             },
-            "C:\\Users\\M!l!D\\source\\repos\\BusinessDayCounter\\test\\BusinessDay.Data\\BusinessDay.Data.csproj": {
-              "projectPath": "C:\\Users\\M!l!D\\source\\repos\\BusinessDayCounter\\test\\BusinessDay.Data\\BusinessDay.Data.csproj"
+            "C:\\Users\\M!l!D\\source\\repos\\New folder\\test\\BusinessDay.Data\\BusinessDay.Data.csproj": {
+              "projectPath": "C:\\Users\\M!l!D\\source\\repos\\New folder\\test\\BusinessDay.Data\\BusinessDay.Data.csproj"
             },
-            "C:\\Users\\M!l!D\\source\\repos\\BusinessDayCounter\\test\\BusinessDay.Services\\BusinessDay.Services.csproj": {
-              "projectPath": "C:\\Users\\M!l!D\\source\\repos\\BusinessDayCounter\\test\\BusinessDay.Services\\BusinessDay.Services.csproj"
+            "C:\\Users\\M!l!D\\source\\repos\\New folder\\test\\BusinessDay.Services\\BusinessDay.Services.csproj": {
+              "projectPath": "C:\\Users\\M!l!D\\source\\repos\\New folder\\test\\BusinessDay.Services\\BusinessDay.Services.csproj"
             },
-            "C:\\Users\\M!l!D\\source\\repos\\BusinessDayCounter\\test\\BusinessDay\\BusinessDay.Web.csproj": {
-              "projectPath": "C:\\Users\\M!l!D\\source\\repos\\BusinessDayCounter\\test\\BusinessDay\\BusinessDay.Web.csproj"
+            "C:\\Users\\M!l!D\\source\\repos\\New folder\\test\\BusinessDay\\BusinessDay.Web.csproj": {
+              "projectPath": "C:\\Users\\M!l!D\\source\\repos\\New folder\\test\\BusinessDay\\BusinessDay.Web.csproj"
             }
           }
         }

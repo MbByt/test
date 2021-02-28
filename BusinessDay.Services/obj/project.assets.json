@@ -730,11 +730,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\M!l!D\\source\\repos\\BusinessDayCounter\\test\\BusinessDay.Services\\BusinessDay.Services.csproj",
+      "projectUniqueName": "C:\\Users\\M!l!D\\source\\repos\\New folder\\test\\BusinessDay.Services\\BusinessDay.Services.csproj",
       "projectName": "BusinessDay.Services",
-      "projectPath": "C:\\Users\\M!l!D\\source\\repos\\BusinessDayCounter\\test\\BusinessDay.Services\\BusinessDay.Services.csproj",
+      "projectPath": "C:\\Users\\M!l!D\\source\\repos\\New folder\\test\\BusinessDay.Services\\BusinessDay.Services.csproj",
       "packagesPath": "C:\\Users\\M!l!D\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\M!l!D\\source\\repos\\BusinessDayCounter\\test\\BusinessDay.Services\\obj\\",
+      "outputPath": "C:\\Users\\M!l!D\\source\\repos\\New folder\\test\\BusinessDay.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -755,11 +755,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\M!l!D\\source\\repos\\BusinessDayCounter\\test\\BusinessDay.Common\\BusinessDay.Common.csproj": {
-              "projectPath": "C:\\Users\\M!l!D\\source\\repos\\BusinessDayCounter\\test\\BusinessDay.Common\\BusinessDay.Common.csproj"
+            "C:\\Users\\M!l!D\\source\\repos\\New folder\\test\\BusinessDay.Common\\BusinessDay.Common.csproj": {
+              "projectPath": "C:\\Users\\M!l!D\\source\\repos\\New folder\\test\\BusinessDay.Common\\BusinessDay.Common.csproj"
             },
-            "C:\\Users\\M!l!D\\source\\repos\\BusinessDayCounter\\test\\BusinessDay.Data\\BusinessDay.Data.csproj": {
-              "projectPath": "C:\\Users\\M!l!D\\source\\repos\\BusinessDayCounter\\test\\BusinessDay.Data\\BusinessDay.Data.csproj"
+            "C:\\Users\\M!l!D\\source\\repos\\New folder\\test\\BusinessDay.Data\\BusinessDay.Data.csproj": {
+              "projectPath": "C:\\Users\\M!l!D\\source\\repos\\New folder\\test\\BusinessDay.Data\\BusinessDay.Data.csproj"
             }
           }
         }

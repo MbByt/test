@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\M!l!D\\source\\repos\\BusinessDayCounter\\test\\BusinessDay.Data\\BusinessDay.Data.csproj",
+      "projectUniqueName": "C:\\Users\\M!l!D\\source\\repos\\New folder\\test\\BusinessDay.Data\\BusinessDay.Data.csproj",
       "projectName": "BusinessDay.Data",
-      "projectPath": "C:\\Users\\M!l!D\\source\\repos\\BusinessDayCounter\\test\\BusinessDay.Data\\BusinessDay.Data.csproj",
+      "projectPath": "C:\\Users\\M!l!D\\source\\repos\\New folder\\test\\BusinessDay.Data\\BusinessDay.Data.csproj",
       "packagesPath": "C:\\Users\\M!l!D\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\M!l!D\\source\\repos\\BusinessDayCounter\\test\\BusinessDay.Data\\obj\\",
+      "outputPath": "C:\\Users\\M!l!D\\source\\repos\\New folder\\test\\BusinessDay.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
